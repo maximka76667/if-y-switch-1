@@ -1,5 +1,5 @@
 def maximal(a, b):
-    if(a >= b):
+    if a >= b:
         return [a, b]
     return [b, a]
 
